@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1667762047 source:c:\users\barsg\onedrive\masaüstü\fall2022\ee441\ee441_pa1_2304764_p1\matrix\main.cpp
+	<iostream>
+	"Matrix.h"
+	"math.h"
+
+1667759772 c:\users\barsg\onedrive\masaüstü\fall2022\ee441\ee441_pa1_2304764_p1\matrix\matrix.h
+	<iostream>
+	"math.h"
+
