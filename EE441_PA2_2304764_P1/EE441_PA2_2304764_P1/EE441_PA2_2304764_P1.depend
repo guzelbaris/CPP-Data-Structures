@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1670441697 source:c:\users\barsg\onedrive\masaüstü\fall2022\ee441\ee441_pa2_2304764_p1\ee441_pa2_2304764_p1\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"maze.h"
+	"stackqueue.h"
+
+1670431252 c:\users\barsg\onedrive\masaüstü\fall2022\ee441\ee441_pa2_2304764_p1\ee441_pa2_2304764_p1\maze.h
+
+1670431252 source:c:\users\barsg\onedrive\masaüstü\fall2022\ee441\ee441_pa2_2304764_p1\ee441_pa2_2304764_p1\maze.cpp
+	"maze.h"
+	<iostream>
+	<string>
+	<fstream>
+
+1670441550 c:\users\barsg\onedrive\masaüstü\fall2022\ee441\ee441_pa2_2304764_p1\ee441_pa2_2304764_p1\stackqueue.h
+
+1670437782 source:c:\users\barsg\onedrive\masaüstü\fall2022\ee441\ee441_pa2_2304764_p1\ee441_pa2_2304764_p1\stackqueue.cpp
+	"stackqueue.h"
+	<iostream>
+	<string>
+	<fstream>
+

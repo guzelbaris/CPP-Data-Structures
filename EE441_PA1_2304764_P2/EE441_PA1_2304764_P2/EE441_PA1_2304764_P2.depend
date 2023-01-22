@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1670444374 source:c:\users\barsg\onedrive\masaüstü\fall2022\ee441\ee441_pa1_2304764_p2\ee441_pa1_2304764_p2\main.cpp
+	<iostream>
+	<iomanip>
+	<stdexcept>
+	<string>
+	<typeinfo>
+	<stdint.h>
+

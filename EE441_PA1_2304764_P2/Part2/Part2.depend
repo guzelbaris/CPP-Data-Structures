@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1667767002 source:c:\users\barsg\onedrive\masaüstü\fall2022\ee441\ee441_pa1_2304764_p2\part2\main.cpp
+	<iostream>
+	"header.h"
+
+1667763271 c:\users\barsg\onedrive\masaüstü\fall2022\ee441\ee441_pa1_2304764_p2\part2\part2_step2.c
+
+1667766719 c:\users\barsg\onedrive\masaüstü\fall2022\ee441\ee441_pa1_2304764_p2\part2\header.h
+	<iostream>
+

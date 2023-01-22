@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1673639392 source:c:\users\barsg\onedrive\masaüstü\fall2022\ee441\ee441_pa3_2304764_p1\ee441_pa3_2304764_p1\main.cpp
+	<iostream>
+	"Matrix.h"
+	"Tree.h"
+
+1673537077 source:c:\users\barsg\onedrive\masaüstü\fall2022\ee441\ee441_pa3_2304764_p1\ee441_pa3_2304764_p1\tree.cpp
+	"Tree.h"
+
+1673639023 source:c:\users\barsg\onedrive\masaüstü\fall2022\ee441\ee441_pa3_2304764_p1\ee441_pa3_2304764_p1\matrix.cpp
+	"Matrix.h"
+	<fstream>
+
+1673638834 c:\users\barsg\onedrive\masaüstü\fall2022\ee441\ee441_pa3_2304764_p1\ee441_pa3_2304764_p1\matrix.h
+	<iostream>
+	"math.h"
+
+1673537077 c:\users\barsg\onedrive\masaüstü\fall2022\ee441\ee441_pa3_2304764_p1\ee441_pa3_2304764_p1\tree.h
+	<iostream>
+	"math.h"
+	"Matrix.h"
+
